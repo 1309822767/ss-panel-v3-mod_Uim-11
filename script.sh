@@ -1,7 +1,8 @@
 #ss-panel-v3-mod_UIChanges
 #Author: 十一
-#Blog: blog.67cc.cn
-#Time：2018-8-25 11:05:33
+#copy user：图匪
+#Blog: dalaos.top
+#Time：2019-3-23 11:05:33
 #!/bin/bash
 
 #check root
@@ -367,7 +368,7 @@ sleep 2
 echo -e "脚本最后更新时间：${Green} ${update_time} ${Font}"
 echo -e "\033[31m#############################################################\033[0m"
 echo -e "\033[32m#欢迎使用一键ss-panel-v3-mod_UIChanges搭建脚本 and 节点添加 #\033[0m"
-echo -e "\033[34m#Blog: http://blog.67cc.cn/                                 #\033[0m"
+echo -e "\033[34m#Blog: http://dalaos.top/                                 #\033[0m"
 echo -e "\033[35m#请选择你要搭建的脚本：                                     #\033[0m"
 echo -e "\033[36m#1.  一键ss-panel-v3-mod_UIChanges搭建                      #\033[0m"
 echo -e "\033[31m#2.  一键添加SS-panel节点[新版]                             #\033[0m"
